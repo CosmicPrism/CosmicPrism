@@ -1,4 +1,6 @@
-### Hi there 👋
+### What's up! 👋
+
+I have nothing to show right now sorry! Please come back later for some of my future projects :)
 
 <!--
 **CosmicPrism/CosmicPrism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
