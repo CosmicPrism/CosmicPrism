@@ -12,5 +12,5 @@ I program in various languages in my spare time (I hope to make a career out of 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=novapulse&hide_rank=true&bg_color=0,6D78ED,B346A9&title_color=fff&text_color=fff&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=novapulse&hide_rank=true&bg_color=0,B346A9,6D78ED&title_color=fff&text_color=fff&border_color=000" />
 </a>
